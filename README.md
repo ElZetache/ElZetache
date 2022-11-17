@@ -7,7 +7,7 @@ Hi! you can call me Zetache, I am working on software development for an ibex35 
 
 <h3>Some links for you:</h3>
 
-> This is my repository of cybersecurity information: <a href="https://github.com/ElZetache/Cybersegurity-Info">Hack the shell!</a>
+> This is my repository of cybersecurity information: <a href="https://github.com/ElZetache/Cybersegurity-Info">Hack the shell!</a> (in process <3)
 <img align="right" src = 'https://github.com/ElZetache/ElZetache/blob/main/img/esdla.gif' width="50%" alt = 'lotr'/>
 <p></p>
 
