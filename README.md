@@ -1,8 +1,9 @@
 <h1 align="center">Welcome to my lands!</h1>
 <h3 align="center">Cybersegurity & Software Engineer</h3>
 
-- Software Engineer in my job
-- Cybersecurity enthusiast in my spare time
+Hi! you can call me Zetache, I am working on software development for an ibex35 company in spain. I am currently working with cobol/db2 and mainframe on projects in the financial/insurance markets.
+- Software Engineer in my job.
+- Cybersecurity enthusiast in my spare time.
 
 <h3>Some links for you:</h3>
 
