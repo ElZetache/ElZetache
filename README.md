@@ -2,8 +2,7 @@
 <h3 align="center">Cybersegurity & Software Engineer</h3>
 
 
-<p center="left">> This is my repository of cybersecurity information: <a href="https://github.com/ElZetache/Cybersegurity-Info">Hack the shell!</a></p>
-
+<p>> This is my repository of cybersecurity information: <a href="https://github.com/ElZetache/Cybersegurity-Info">Hack the shell!</a>
 <img src = 'https://github.com/ElZetache/ElZetache/blob/main/img/esdla.gif' width="30%" alt = 'lotr' align='right'/>
 
 
