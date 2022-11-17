@@ -1,8 +1,8 @@
 <h1 align="center">Hi!!! Welcome to my GitHub i'm Zetache!</h1>
 <h3 align="center">Cybersegurity & Software Engineer</h3>
 
-<p>> This is my cybersegurity info repository: <a href="https://github.com/ElZetache/Cybersegurity-Info">Hack the shell!</a>
-<img src = 'https://github.com/ElZetache/ElZetache/blob/main/img/esdla.gif' alt = 'lotr' align='right'/>
+<p center="left">> This is my cybersegurity info repository: <a href="https://github.com/ElZetache/Cybersegurity-Info">Hack the shell!</a>
+<img src = 'https://github.com/ElZetache/ElZetache/blob/main/img/esdla.gif' width="80%" alt = 'lotr' align='right'/>
 
 <!-- tecnologias -->
 <h3 align="center">Languages and Tools:</h3>
