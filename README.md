@@ -1,6 +1,6 @@
 <h1 align="center">Hi!!! Welcome to my GitHub i'm Zetache!</h1>
 <h3 align="center">Cybersegurity & Software Engineer</h3>
-<p align="center">![tGzNhICKOt0f](https://user-images.githubusercontent.com/96047954/202471208-3f209215-b0e3-402e-ab28-1b52fdead52b.gif)</p>
+<p align="center"><img src="![tGzNhICKOt0f](https://user-images.githubusercontent.com/96047954/202471208-3f209215-b0e3-402e-ab28-1b52fdead52b.gif)"/></p>
 
 
 
