@@ -1,8 +1,7 @@
 <h1 align="center">Hi!!! Welcome to my GitHub i'm Zetache!</h1>
 <h3 align="center">Cybersegurity & Software Engineer</h3>
-<p align="center"><img src="![tGzNhICKOt0f](https://user-images.githubusercontent.com/96047954/202471208-3f209215-b0e3-402e-ab28-1b52fdead52b.gif)" alt="hack" width="800" height="100"/></p>
 
-
+<img src = 'https://github.com/ElZetache/ElZetache/blob/master/img/hack1.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <!-- tecnologias -->
 <h3 align="center">Languages and Tools:</h3>
