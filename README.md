@@ -1,6 +1,9 @@
 <h1 align="center">Welcome to my lands!</h1>
 <h3 align="center">Cybersegurity & Software Engineer</h3>
 
+- Software Engineer in my job
+- Cybersecurity enthusiast in my spare time
+
 <h3>Some links for you:</h3>
 
 > This is my repository of cybersecurity information: <a href="https://github.com/ElZetache/Cybersegurity-Info">Hack the shell!</a>
