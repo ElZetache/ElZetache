@@ -4,10 +4,13 @@
 Hi! you can call me Z, I am working on software development for an company in Barcelona. I am currently working with cobol/db2 and mainframe on projects in the financial/insurance markets.
 - Software Engineer in my job.
 - Cybersecurity enthusiast in my spare time.
+- In the future I might do courses and upload them to youtube, it's just a possibility.
 
 <h3>Some links for you:</h3>
 
 > This is my repository of cybersecurity information: <a href="https://github.com/ElZetache/Cybersegurity-Info">Hack the shell!</a> (in process <3)
+> Here is where I keep my python notes: <a href="https://github.com/ElZetache/LearningPython">pssssss...</a>
+> Sometimes I do some java: <a href="https://github.com/ElZetache/learningJava">I like the smell of coffe in the morning</a>
 <img align="right" src = 'https://github.com/ElZetache/ElZetache/blob/main/img/esdla.gif' width="50%" alt = 'lotr'/>
 <p></p>
 
