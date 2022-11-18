@@ -16,8 +16,8 @@ Hi! you can call me Z, I am working on software development for an company in Ba
 
 <h3>Next Objectives:</h3>
 
-> I'm thinking about eJPT. <br>
-> Make content for youtube & TikTok about code & Cybersecurity (in a future).
+> - I'm thinking about eJPT. <br>
+> - Make content for youtube & TikTok about code & Cybersecurity (in a future).
 
 <img align="right" src = 'https://github.com/ElZetache/ElZetache/blob/main/img/esdla.gif' width="50%" alt = 'lotr'/>
 <p></p>
