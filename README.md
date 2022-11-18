@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my lands!</h1>
 <h3 align="center">Cybersegurity & Software Engineer</h3>
+![CodeWars](https://www.codewars.com/users/ElZetache/badges/micro)
 
 Hi! you can call me Z, I am working on software development for an company in Barcelona. I am currently working with cobol/db2 and mainframe on projects in the financial/insurance markets.
 - Software Engineer in my job.
@@ -15,6 +16,7 @@ Hi! you can call me Z, I am working on software development for an company in Ba
 <h3>Next Objectives:</h3>
 
 > I'm thinking about eJPT.
+<br>
 > Make content for youtube & TikTok about code & Cybersecurity (in a future).
 
 <img align="right" src = 'https://github.com/ElZetache/ElZetache/blob/main/img/esdla.gif' width="50%" alt = 'lotr'/>
