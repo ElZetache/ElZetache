@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to my lands!</h1>
 <h3 align="center">Cybersegurity & Software Engineer</h3>
 
-<img align="center" src="https://www.codewars.com/users/ElZetache/badges/micro"></img>
-
 Hi! you can call me Z, I am working on software development for an company in Barcelona. I am currently working with cobol/db2 and mainframe on projects in the financial/insurance markets.
 - Software Engineer in my job.
 - Cybersecurity enthusiast in my spare time.
 - In the future I might do courses and upload them to youtube, it's just a possibility.
+
+<img align="center" src="https://www.codewars.com/users/ElZetache/badges/large"></img>
 
 <h3>Some links for you:</h3>
 
