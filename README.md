@@ -11,6 +11,12 @@ Hi! you can call me Z, I am working on software development for an company in Ba
 > This is my repository of cybersecurity information: <a href="https://github.com/ElZetache/Cybersegurity-Info">Hack the shell!</a> (in process <3) <br>
 > Here is where I keep my Python notes: <a href="https://github.com/ElZetache/LearningPython">pssssss...</a> <br>
 > Sometimes I do some Java: <a href="https://github.com/ElZetache/learningJava">I like the smell of coffe in the morning</a>
+
+<h3>Next Objectives:</h3>
+
+> I'm thinking about eJPT.
+> Make content for youtube & TikTok about code & Cybersecurity (in a future).
+
 <img align="right" src = 'https://github.com/ElZetache/ElZetache/blob/main/img/esdla.gif' width="50%" alt = 'lotr'/>
 <p></p>
 
