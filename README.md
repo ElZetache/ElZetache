@@ -30,5 +30,5 @@ Hi! you can call me Z, I am working on software development for an company in Ba
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elzetache&show_icons=true&locale=en&layout=compact" alt="elzetache" /></p>
 
-<img src="https://github.com/ElZetache/ElZetache/blob/main/img/introduction-to-cybersecurity.png" alt="Cisco-Cybersecurity">
-<img src="https://github.com/ElZetache/ElZetache/blob/main/img/python-essentials-1.1.png" alt="Cisco-Cybersecurity">
+<p><img width="100" height="100" src="https://github.com/ElZetache/ElZetache/blob/main/img/introduction-to-cybersecurity.png" alt="Cisco-Cybersecurity">
+<img width="100" height="100" src="https://github.com/ElZetache/ElZetache/blob/main/img/python-essentials-1.1.png" alt="Cisco-Cybersecurity"></p>
