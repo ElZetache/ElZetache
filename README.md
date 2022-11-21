@@ -29,3 +29,5 @@ Hi! you can call me Z, I am working on software development for an company in Ba
 > I also know Cobol but it's so old that it doesn't have a cool icon, too sad.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elzetache&show_icons=true&locale=en&layout=compact" alt="elzetache" /></p>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ae5143cd-55ea-4844-9526-16503250b169" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
