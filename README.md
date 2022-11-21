@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my lands!</h1>
 <h3 align="center">Cybersegurity & Software Engineer</h3>
 
-Hi! you can call me Z, I am working on software development for an company in Barcelona. I am currently working with cobol/db2 and mainframe on projects in the financial/insurance markets.
+Hi! My name is Albert, I am working on software development for an company in Barcelona. I am currently working with cobol/db2 and mainframe on projects in the financial/insurance markets.
 - Software Engineer in my job.
 - Cybersecurity enthusiast in my spare time.
 - In the future I might do courses and upload them to youtube, it's just a possibility.
