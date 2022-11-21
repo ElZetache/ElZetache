@@ -30,4 +30,4 @@ Hi! you can call me Z, I am working on software development for an company in Ba
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elzetache&show_icons=true&locale=en&layout=compact" alt="elzetache" /></p>
 
-<img src="https://github.com/ElZetache/ElZetache/blob/main/img/introduction-to-cybersecurity.png" href="https://www.credly.com/badges/ae5143cd-55ea-4844-9526-16503250b169/public_url" alt="Cisco-Cybersecurity">
+<a href="https://www.credly.com/badges/ae5143cd-55ea-4844-9526-16503250b169/public_url" target="_blank" rel="noreferrer"><img src="https://github.com/ElZetache/ElZetache/blob/main/img/introduction-to-cybersecurity.png" alt="Cisco-Cybersecurity"></a>
