@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my lands!</h1>
-<h3 align="center">Cybersegurity & Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 Hi! My name is Albert! 
 
