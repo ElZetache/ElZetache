@@ -1,9 +1,13 @@
 <h1 align="center">Welcome to my lands!</h1>
 <h3 align="center">Cybersegurity & Software Engineer</h3>
 
-Hi! My name is Albert, I am working on software development for an company in Barcelona. I am currently working with cobol/db2 and mainframe on projects in the financial/insurance markets.
-- Software Engineer in my job.
-- Cybersecurity enthusiast in my spare time.
+Hi! My name is Albert! 
+
+Since I was a child, I've always had a great passion for computers, experimenting and learning through hands-on experience (sometimes breaking a few things along the way). Over time, this curiosity led me to the fascinating world of programming, where I found my true calling.
+
+In addition to my interest in technology, I also enjoy creating content online. While I am currently focused on programming, I don't rule out the possibility of exploring and combining both passions in the future.
+
+I am a proactive individual, eager to learn and take on new challenges, always seeking opportunities to grow and contribute to innovative projects.
 
 <img align="center" src="https://www.codewars.com/users/ElZetache/badges/large"></img>
 
@@ -15,7 +19,7 @@ Hi! My name is Albert, I am working on software development for an company in Ba
 
 <h3>Next Objectives:</h3>
 
-> - I'm thinking about eJPT. <br>
+> - I'm learning about DevOps. <br>
 
 <img align="right" src = 'https://github.com/ElZetache/ElZetache/blob/main/img/esdla.gif' width="50%" alt = 'lotr'/>
 <p></p>
